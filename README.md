@@ -36,7 +36,4 @@ Repository Structure
 • test/: Foundry unit, fuzzing, and security tests.
 • solana-oft/: Rust Anchor program (programs/oft) and TypeScript Umi/LayerZero V2 scripts.
 • *.py: M2M agent scripts, WOTS+ Merkle tree generation, and gasless relayers.
-Souhaitez-vous que j'ajoute d'autres blocs prêts à copier-coller pour votre README.md, tels que :
-• Les badges GitHub (Foundry, Anchor, LayerZero V2, License)
-• Une section Quickstart (commandes d'installation et de test)
-• Un diagramme de flux (M2M et pont Base ↔ Solana)
+
